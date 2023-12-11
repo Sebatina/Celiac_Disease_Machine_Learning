@@ -1,6 +1,6 @@
 # One-Stop Database Machine Learning Repository
 
-Welcome to the One-Stop Database Machine Learning Repository (Version 2)! This repository is dedicated to integrating machine learning techniques into celiac disease (CeD) research using the data from the One-Stop Database Version 2.
+Welcome to the One-Stop Database Machine Learning Repository! This repository is dedicated to integrating machine learning techniques into Celiac Disease (CeD) research using the data from the One-Stop Database Version 2.
 
 ## Overview
 
