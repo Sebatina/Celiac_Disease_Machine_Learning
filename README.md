@@ -64,6 +64,7 @@ The One-Stop Database Version 2 aims to provide an upgraded and more comprehensi
    ![Workflow](https://github.com/Sebatina/Celiac_Disease_Machine_Learning/assets/125638812/5fa79ab9-a7f6-4b04-a055-0397ca95752b)
 
 
-## Contributions
-If you find ways to enhance or optimize the machine learning models, your contributions are welcome! Feel free to open issues or submit pull requests.
+## Contributions and Further Exploration
+We welcome your contributions to enhance and optimize the machine learning models! Feel free to open issues or submit pull requests if you have ideas or improvements.
 
+For those interested in delving deeper into celiac disease data and contributing to broader research efforts, explore the [Celiac Disease India Version 2 repository](https://github.com/Sebatina/Celiac_Disease_India_Version_2.git). This repository provides an extensive collection of data related to celiac disease within the Indian context. Your active participation in both repositories contributes to advancing our understanding of celiac disease and its implications.
