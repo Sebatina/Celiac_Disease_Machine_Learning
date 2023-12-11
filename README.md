@@ -59,6 +59,9 @@ The One-Stop Database Version 2 aims to provide an upgraded and more comprehensi
 7. **Model Training and Evaluation (LSTM and SVM):**
    - Utilize Long Short-Term Memory (LSTM) networks and Support Vector Machines (SVM) for training and evaluation. (LSTM Model File Name: ML/models/LSTM, SVM Model File Name: ML/models/SVM)
    - Assess model efficacy using performance metrics such as accuracy, sensitivity, specificity, F1-score, and Matthews correlation coefficient.
+8. **Workflow Visualization:**
+   ![Workflow](https://github.com/Sebatina/Celiac_Disease_Machine_Learning/assets/125638812/5fa79ab9-a7f6-4b04-a055-0397ca95752b)
+
 
 ## Contributions
 If you find ways to enhance or optimize the machine learning models, your contributions are welcome! Feel free to open issues or submit pull requests.
