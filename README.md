@@ -63,4 +63,3 @@ The One-Stop Database Version 2 aims to provide an upgraded and more comprehensi
 ## Contributions
 If you find ways to enhance or optimize the machine learning models, your contributions are welcome! Feel free to open issues or submit pull requests.
 
-Thank you for contributing to advancing celiac disease research through machine learning!
