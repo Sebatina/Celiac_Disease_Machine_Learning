@@ -44,7 +44,7 @@ The One-Stop Database Version 2 aims to provide an upgraded and more comprehensi
    - Remove duplication and generate representative sequences from the negative peptide dataset using the CD-HIT clustering approach. (File Name: cdhit_clustering)
 
 3. **Feature Extraction from Sequences:**
-   - Utilize the Protr package in R and Python for extracting features like amino acid composition, dipeptide composition, tripeptide composition, autocorrelation descriptors, pseudo-amino acid composition, and amphiphilic pseudo-amino acid composition. (Feature Extraction using R: feature_extraction/feature_extraction_using_R, Feature Extraction using Python: feature_extraction/feature_extraction_using_Python) 
+   - Utilize the Protr package in R and Python for extracting features like amino acid composition, dipeptide composition, tripeptide composition, autocorrelation descriptors, pseudo-amino acid composition, and amphiphilic pseudo-amino acid composition. (Feature Extraction using R: ML/feature_extraction/feature_extraction_using_R, Feature Extraction using Python: ML/feature_extraction/feature_extraction_using_Python) 
    - Address feature quality concerns to enhance model performance.
 
 4. **Motif-based Analysis (MEME):**
