@@ -19,7 +19,7 @@ The One-Stop Database Version 2 aims to provide an upgraded and more comprehensi
 !pip install pandas
 !pip install numpy
 !pip install matplotlib
-!pip install --user tensorflow
+!pip install tensorflow
 ```
 
 #### SVM Model
